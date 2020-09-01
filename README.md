@@ -9,11 +9,11 @@ Add a comment to your README like the follows
 ```md
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 26 mins   ███████████████████▓░░░░░   78.82 % 
-Java         54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-XML          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JavaScript   6 hrs 8 mins    ███████████████████▒░░░░░   77.57 % 
+Java         48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+XML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
 ```
